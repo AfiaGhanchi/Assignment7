@@ -1,0 +1,19 @@
+.g {
+  background-color: greenyellow;
+  width: 550px;
+  height: 850px;
+}
+
+.lg {
+  background-color: palegreen;
+  width: 500px;
+  height: 30px;
+  border-style: double;
+}
+
+.lg2 {
+  background-color: palegreen;
+  width: 500px;
+  height: 100px;
+  border-style: double;
+}
